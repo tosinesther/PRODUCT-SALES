@@ -36,20 +36,17 @@ DASHBAORD
  - Optimize Pricing Strategy
    - Reduce discounts on high-cost products like Paseo & VTT to improve profit margins.
 Offer volume-based discounts to encourage bulk purchases.
-Expand High-Growth Segments
-Focus marketing on Government and Small Business since they generate the most sales.
+ - Expand High-Growth Segments
+   - Focus marketing on Government and Small Business since they generate the most sales.
 Reevaluate pricing or offerings for Midmarket and Channel Partners to increase their contributions.
-Seasonal Promotions & Demand Planning
-
-Leverage high sales in October–December with special promotions.
+ - Seasonal Promotions & Demand Planning
+   - Leverage high sales in October–December with special promotions.
 Boost sales in low-performing months (March, April, May) by launching targeted discounts or bundled offers.
-Reduce Costs in High-COGS Products
-
-Analyze supply chain efficiency for Paseo and VTT to lower costs.
+ - Reduce Costs in High-COGS Products
+   - Analyze supply chain efficiency for Paseo and VTT to lower costs.
 Negotiate better vendor contracts or consider alternative suppliers.
-Improve Discount Optimization
-
-Shift focus from high-discount strategies to value-based pricing.
+ - Improve Discount Optimization
+   - Shift focus from high-discount strategies to value-based pricing.
 Invest in customer segmentation analysis to offer personalized discounts based on purchase behavior.
 
 
