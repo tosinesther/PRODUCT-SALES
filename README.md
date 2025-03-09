@@ -34,7 +34,7 @@ DASHBAORD
 
 ### RECOMMENDATIONS
  - Optimize Pricing Strategy
-  - Reduce discounts on high-cost products like Paseo & VTT to improve profit margins.
+   - Reduce discounts on high-cost products like Paseo & VTT to improve profit margins.
 Offer volume-based discounts to encourage bulk purchases.
 Expand High-Growth Segments
 Focus marketing on Government and Small Business since they generate the most sales.
